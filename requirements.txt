@@ -7,3 +7,5 @@ colorama==0.4.1
 Flask_Login==0.4.1
 nmap==0.0.1
 python-secrets
+
+sphinx>=3.0.4 # not directly required, pinned by Snyk to avoid a vulnerability
